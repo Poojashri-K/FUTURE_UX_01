@@ -1,7 +1,7 @@
 
   # Healthcare Clinic Website UI
 
-  This is a code bundle for Healthcare Clinic Website UI. The original project is available at https://www.figma.com/design/ztWLlPz2DcmHZkaXHkE77T/Healthcare-Clinic-Website-UI.
+  This is a code bundle for Healthcare Clinic Website UI. The original project is available at https://shove-cross-73245321.figma.site/
 
   ## Running the code
 
